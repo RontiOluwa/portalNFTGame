@@ -1,5 +1,5 @@
 import Phaser from 'phaser';
-import { getGameWidth, getGameHeight, getRelative } from '../../helpers';
+import { getGameWidth, getGameHeight } from '../../helpers';
 
 const sceneConfig = {
 	active: true,
